@@ -25,5 +25,10 @@ We’re building this together!
 - Submit your ideas or improvements via Issues.
 - Fork the repo and create a Pull Request to contribute.
 
+## 🏆 Credits  
+- **[Cloud Launcher Sources](https://github.com/GDBOI101/Cloud-V2)**: Base inspiration for this project.  
+- **VoidEngineCC**: Development, optimization, and custom feature implementation.  
+ 
+
   ## 💬 Contact me
   In case of questions my discord is open : heavenly1337
